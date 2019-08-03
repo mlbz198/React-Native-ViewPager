@@ -3,7 +3,6 @@
  */
 
 'use strict'
-
 import { PanResponder, Platform, ScrollView, StyleSheet, View } from 'react-native'
 import React, { Component } from 'react'
 import ViewPagerAndroid from '@react-native-community/viewpager'
